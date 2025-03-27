@@ -9,7 +9,7 @@
 
 - ✨ I just started using github
 - 📚 I will mostly use it for university coursework and personal projects
-- 🌱 The main language I use is R
+- 🌱 The main language I use is R, but I also know a small bit of python
 <!--
 **ZoshkaRegina/ZoshkaRegina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
